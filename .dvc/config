@@ -1,0 +1,4 @@
+[core]
+    remote = madhuremote
+['remote "madhuremote"']
+    url = ssh://madhub@npci-sandbox.talentsprint.com/dvc-madhu
